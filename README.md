@@ -1,5 +1,5 @@
 # Windows Online : A recreation of Windows Online
-Based on v0.windows93.net
+Based on windows93.net
 
 ## Windows here :
 - [Windows XP](https://sakinawak.github.io/WinVista/v1/index.html) :Theme created
